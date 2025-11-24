@@ -1,5 +1,5 @@
 {
     "sender_email": "your-mail-id",
-    "sender_password": "your-app-password  ",
+    "sender_password": "your-app-password",
     "receiver_email": "your-mail-id"
 }
